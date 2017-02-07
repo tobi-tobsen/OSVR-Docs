@@ -22,7 +22,8 @@ If you want to determine the current firmware version of the HDK, click the 'get
 
 ![](Control-3.png)
 
-Once the HDK is connected, select 'firmware upgrade' and follow the step-by-step instructions. The wizard will walk you through the various stages of obtaining the right software to perform the upgrade as well as allow you to select the appropriate firmware version
+Once the HDK is connected, select 'firmware upgrade' and follow the step-by-step instructions. The wizard will walk you through the various stages of obtaining the right software to perform the upgrade as well as allow you to select the appropriate firmware version.
+If available firmware versions do not show up in the drop down list "available versions", make sure that to **run the OSVRControl.exe with administrator privileges** (e.g. righ click OSVRControl.exe, "run as admin").
 
 ![](Control-4.png)
 
